@@ -8,3 +8,6 @@
 
 #4
 <a href="https://github.com/keertipurswani/Swiggy-Zomato-Low-Level-Design">simple</a>
+
+#5
+<a href="https://github.com/ashishps1/awesome-low-level-design/blob/main/solutions/java/src/fooddeliveryservice/FoodDeliveryService.java">ashish</a>
